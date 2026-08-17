@@ -1,0 +1,1 @@
+# Delta hedging simulator comparing Black-Scholes, GRU-based deep hedging, and adversarially-trained hedging strategies across 10K+ Monte Carlo market scenarios. Optimizes CVaR-based tail risk using TensorFlow, benchmarked on real NIFTY options data.
